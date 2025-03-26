@@ -1,4 +1,4 @@
-# Gateway Services API
+# Product Services API
 
 API ini adalah aplikasi manajemen pengguna menggunakan Golang dan PostgreSQL.
 
